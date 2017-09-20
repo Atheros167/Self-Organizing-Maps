@@ -12,6 +12,9 @@
   5. It is a great way of understanding some of the un-realized correlations in the data and produce some really awesome maps of the data.
 
   6. In this project, we would be taking a look at a random bank's customer information applying for a credit card. THe variables correspond to the information a customer provides during the application.
-          * The goal is to identify which customer cheated.
-          * Since this is an unsupervised deep learning model, we do not have a label or a target variable
-          * This data set is taken from [data_location](http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
+  
+          ** The goal is to identify which customer cheated. **
+  
+          ** Since this is an unsupervised deep learning model, we do not have a label or a target variable **
+          
+          * This data set is taken from [data_location](http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval) **
