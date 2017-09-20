@@ -17,5 +17,5 @@
   
           ** Since this is an unsupervised deep learning model, we do not have a label or a target variable **
           
-          * This data set is taken from 
-      [data_location](http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval) **
+          This data set is taken from 
+      [data_location](http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval) 
